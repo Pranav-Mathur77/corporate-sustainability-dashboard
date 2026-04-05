@@ -21,7 +21,7 @@ It answers key business questions such as:
 
 ### 📌 Main Dashboard
 
-![Dashboard](visulas/dashboard.png)
+![Dashboard](visuals/dashboard.png)
 
 ### 📌 Summary Sheet
 
